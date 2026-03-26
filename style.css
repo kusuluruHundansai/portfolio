@@ -354,6 +354,7 @@ nav {
     align-items: center;
     justify-content: center;
     padding: 0 8%;
+    padding-top: 80px; /* offset for fixed navbar */
     position: relative;
     overflow: hidden;
 }
